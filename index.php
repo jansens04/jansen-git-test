@@ -9,5 +9,9 @@
 <body>
     <h1>Coba Git Remote</h1>
     <p>Lorem ipsum dolor sit amet.</p>
+    <ul>
+        <li>Test Git Remote</li>
+        <li>Test Git Jansen</li>
+    </ul>
 </body>
 </html>
